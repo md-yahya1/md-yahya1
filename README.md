@@ -70,12 +70,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-yahya1&theme=github-dark&hide_border=true"/>
+</p>
 ---
 
 ## 🚀 Philosophy
@@ -86,8 +85,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: www.linkedin.com/in/mohammed-yahya-4b9879326
+- 📧 Email: mdyahya@gmail.com
 - 🌐 Portfolio: (Add later if not now)
 
 ---
