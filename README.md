@@ -108,13 +108,18 @@ status      : Open to Collaborations & Internships
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/md-yahya1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-yahya1&repo=YOUR_AI_DEBUG_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+
+<a href="https://github.com/md-yahya1/spam-detector-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-yahya1&repo=spam-detector-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 </a>
-<a href="https://github.com/md-yahya1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-yahya1&repo=YOUR_AURANATURALS_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+
+<a href="https://github.com/md-yahya1/debugging_assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-yahya1&repo=debugging_assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 </a>
+
 </div>
+
+<br/>
 
 <br/>
 
