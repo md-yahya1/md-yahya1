@@ -27,12 +27,12 @@
 
 
 ```yaml
-name        : Mohammed Yahya
+name        : Mohammed Yahya M
 role        : AI Application Developer & Full Stack Learner
-education   : 2nd Year B.Sc. Computer Science
+education   : 2nd Year B.E Computer Science
 location    : India 🇮🇳
-focus       : GenAI · MERN Stack · Docker · MLOps
-status      : Open to Collaborations & Internships
+focus       : GenAI · AIML · Docker · MLOps
+status      : Open to Internships, learning in public 
 ```
 
 <br/>
