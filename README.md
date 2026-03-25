@@ -24,7 +24,7 @@
 <tr>
 <td valign="top" width="60%">
 
-## `$ whoami`
+
 
 ```yaml
 name        : Mohammed Yahya
