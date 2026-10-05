@@ -1,15 +1,15 @@
 # Mohammed Yahya M
 
-> AI/ML Engineer · Data Science · SDE · 2nd Year B.E Computer Science Engineering · India
+> AI/ML Engineer · Data Science · 3rd Year B.E. Computer Science Engineering · India
 
 ---
 
 ## About
 
-```
+```text
 Name     : Mohammed Yahya M
-Focus    : AI / ML · Data Science · Software Development
-Stack    : Python · GenAI · SQL · scikit-learn · Pandas
+Focus    : AI / ML · GenAI · Data Science · Software Development
+Stack    : Python · Java · SQL · Hugging Face · scikit-learn · FastAPI
 Status   : Open to internships · Learning in public
 ```
 
@@ -19,29 +19,48 @@ Status   : Open to internships · Learning in public
 
 | Project | Description | Stack |
 |---|---|---|
-| AI Debugging Assistant | AI-powered debugging tool with contextual suggestions | Python · HuggingFace · vercel |
-| Spam Detection System | ML classifier for identifying spam messages | Python · scikit-learn |
-
+| AI Debugging Assistant | LLM-powered debugging assistant that provides contextual code analysis and suggestions | Python · FastAPI · Hugging Face · Qwen |
+| Business Entity Resolution | Entity matching system developed for an Amazon hackathon to identify matching business records | Python · ML · Fuzzy Matching · Candidate Generation |
+| Resume Maker | AI-powered resume generation and customization platform | Python · LangChain · FastAPI · ChromaDB |
+| MedVision AI | AI-based chest X-ray pneumonia detection prototype | Python · EfficientNet · FastAPI · Streamlit |
 
 ---
 
 ## Skills
 
-**Languages** — Python · Java · C  
-**AI / ML & Data** — HuggingFace · scikit-learn · Pandas · NumPy · Web Scraping · Streamlit · Jupyter  
-**Backend** — Django · SQL  
-**DevOps** — Docker · Git · GitHub  
+**Languages** — Python · Java · C · JavaScript · SQL
+
+**AI / ML & Data** — Hugging Face · scikit-learn · Pandas · NumPy · PyTorch · Feature Engineering · EDA · Model Building · RAG · LLM Applications
+
+**Generative AI** — LangChain · Prompt Engineering · Embeddings · Vector Databases · ChromaDB · Hugging Face Models
+
+**Backend & Web** — FastAPI · Flask · React · Streamlit
+
+**Databases** — PostgreSQL · MongoDB · SQL · Supabase
+
+**DevOps & Tools** — Docker · Git · GitHub · Vercel · Render · Jupyter · VS Code
 
 ---
 
 ## Currently Learning
 
+```text
+GenAI       → RAG · LLM Applications · n8n · REST APIs · Prompt Engineering
+AI / ML     → Model Building · Feature Engineering · NLP · Computer Vision
+Data        → Pandas · NumPy · EDA · Web Scraping · Data Processing
+Backend     → FastAPI 
+CS          → Data Structures · Algorithms 
+Goals       → Open Source · AI/ML Internships · Build impactful AI solutions
 ```
-GenAI       → n8n · REST API · Prompt Engineering
-Data        → Pandas · NumPy · Web Scraping · EDA
-ML          → scikit-learn · Model Building · Feature Engineering
-CS          → Data Structures · Algorithms · OOP
-Goals       → Open Source · Build impactful AI/ML solutions
+
+---
+
+## Achievements
+
+```text
+400+ LeetCode Problems Solved
+LeetCode 75 Study Plan Completed
+Amazon Hackathon — Business Entity Resolution Project
 ```
 
 ---
@@ -53,4 +72,4 @@ Goals       → Open Source · Build impactful AI/ML solutions
 
 ---
 
-*"Solving problems one step at a time"*
+*"Solving problems one step at a time."*
